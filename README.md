@@ -22,6 +22,8 @@ Ravencoin - RVN
 
 # How To Use
 
+![gui](https://user-images.githubusercontent.com/80614053/172138470-f8bd5344-78a9-40e8-bdf4-8e048e925a80.png)
+
 Customizable options:
 
 To change time amount, look at FILE_NAME and scroll down till you see
@@ -50,10 +52,6 @@ This program is aimed at all who want to get into mining crypto but don’t have
 
 This helps in preserving hardware allowing for your computer to last longer
 
-
-
-
-![gui](https://user-images.githubusercontent.com/80614053/172138470-f8bd5344-78a9-40e8-bdf4-8e048e925a80.png)
 
 
 ***By: Najjad***
