@@ -25,9 +25,9 @@ def StratMine():
     elif difficulty() < avg(): #if difficulty is less than average, mine
       if process_exists("nbminer.exe") is True: #if nbminer is already running
        os.system("TASKKILL /F /IM nbminer.exe") #exit nbminer
-       subprocess.Popen(r'C:\Users\Jado Zeenni\Desktop\EfficientMiner\Design version\start_rvn.bat', creationflags=subprocess.CREATE_NEW_CONSOLE)#rerun nbminer
+       subprocess.Popen(r'DIRECTORY_OF_START_RVN', creationflags=subprocess.CREATE_NEW_CONSOLE)#rerun nbminer
 
       elif  process_exists("nbminer.exe") is False: #if nbminer is not running
-        subprocess.Popen(r'C:\Users\Jado Zeenni\Desktop\EfficientMiner\Design version\start_rvn.bat', creationflags=subprocess.CREATE_NEW_CONSOLE)#run nbminer
+        subprocess.Popen(r'DIRECTORY_OF_START_RVN', creationflags=subprocess.CREATE_NEW_CONSOLE)#run nbminer
 
 
