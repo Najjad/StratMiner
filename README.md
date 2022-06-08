@@ -52,6 +52,8 @@ This program is aimed at all who want to get into mining crypto but don’t have
 
 This helps in preserving hardware allowing for your computer to last longer
 
+# Proof of this working:
 
+DATA I AM YET TO INCLUDE
 
 ***By: Najjad***
