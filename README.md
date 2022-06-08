@@ -33,6 +33,7 @@ Ravencoin - RVN
 
 * In the programs current form it was not designed to be customizable to the beginner user
 * If you have python experience you are more than welcome to copy and alter my program to fit your needs better / fix problems / optimize
+* Editing the program will need you to download all files from this GitHub then use pyinstaller to recompile your altered version
 
 
 # Why use this program?
