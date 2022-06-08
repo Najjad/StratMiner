@@ -30,16 +30,8 @@ Ravencoin - RVN
 
 # Customizable options:
 
-To change time amount, look at FILE_NAME and scroll down till you see
-(Time is in seconds)
-```
-CODE I AM YET TO COPY PASTE HERE
-```
-
-To change GUI colors, look at FILE_NAME and scroll down till you see
-```
-CODE I AM YET TO COPY PASTE HERE
-```
+In the programs current form it was not designed to be customizable to the beginner user
+If you have python experience you are more than welcome to copy and alter my program to fit your needs better / fix problems / optimize
 
 
 # Why use this program?
