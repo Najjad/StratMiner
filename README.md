@@ -2,6 +2,7 @@
 
 ## Using NBmining software --> https://github.com/NebuTech/NBMiner
 ## Using Python 3.7
+## Using Gooey python library for GUI --> https://github.com/chriskiehl/Gooey/
 ## Everything tested on Nvidia 1660 GPU
 
 
