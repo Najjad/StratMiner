@@ -17,7 +17,7 @@ Navigate into the StratMiner's folder, open 'start_rvn.bat' with notepad (or any
 Add to the 'start_rvn.bat' file your information
 
 ```
-nbminer -a kawpow -o REGION-rvn.2miners.com:6060 -u ADDRESS.NAME --log 
+nbminer -a kawpow -o REGION -u ADDRESS.NAME --log 
 ```
 #### For REGION, add either:
 
