@@ -30,8 +30,8 @@ Ravencoin - RVN
 
 # Customizable options:
 
-*In the programs current form it was not designed to be customizable to the beginner user
-*If you have python experience you are more than welcome to copy and alter my program to fit your needs better / fix problems / optimize
+* In the programs current form it was not designed to be customizable to the beginner user
+* If you have python experience you are more than welcome to copy and alter my program to fit your needs better / fix problems / optimize
 
 
 # Why use this program?
