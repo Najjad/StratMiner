@@ -16,6 +16,7 @@ Ravencoin - RVN
 
 ### Branches labeled by Coin letters (BTC, RVN, ETH, etc.)
 ### Branches contain download for each version of program
+### You can find the list of branches at the top left of this repository
 
 ###### This software is still in progress
 
