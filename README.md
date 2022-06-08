@@ -25,6 +25,9 @@ nbminer -a kawpow -o REGION -u ADDRESS.NAME --log
 * "asia-rvn.2miners.com:6060" for Asia
 * "rvn.2miners.com:6060" for Europe
 
+
+#### Pick the region based on what continent you are on / closest to
+
 #### For ADDRESS input your RavenCoin wallet address
 
 ####  For NAME input any name you'd like
