@@ -21,13 +21,13 @@ nbminer -a kawpow -o REGION-rvn.2miners.com:6060 -u ADDRESS.NAME --log
 ```
 #### For REGION, add either:
 
-"us-rvn.2miners.com:6060" for the USA 
-"asia-rvn.2miners.com:6060" for Asia
-"rvn.2miners.com:6060" for Europe
+* "us-rvn.2miners.com:6060" for the USA 
+* "asia-rvn.2miners.com:6060" for Asia
+* "rvn.2miners.com:6060" for Europe
 
 #### For ADDRESS input your RavenCoin wallet address
 
-#### For NAME input any name you'd like
+####  For NAME input any name you'd like
 
 Save file and continue to the next step 
 
@@ -41,7 +41,7 @@ Saving file: (Ctrl + s) or top left click file, then save
 
 if you'd like to check your mining progress, navigate to the website rvn.2miners.com
 
-On the search bar of the website, search your RavenCoin wallet
+On the search bar of the website, search your RavenCoin wallet address
 
 This page then allows you to always check up on your mining progress!
 
