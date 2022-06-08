@@ -1,6 +1,9 @@
 # Stragetic Mining Program (V.1)
 
-## Using nbmining software --> https://github.com/NebuTech/NBMiner
+## Using NBmining software --> https://github.com/NebuTech/NBMiner
+## Using Python 3.7
+## Everything tested on Nvidia 1660 GPU
+
 
 ###### **WINDOWS ONLY**
 
