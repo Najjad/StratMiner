@@ -37,7 +37,7 @@ This very simple GUI created with the help of the Gooey library is very straight
  * Once you've clicked start, you'll be greeted by this screen
 ![image2](https://user-images.githubusercontent.com/80614053/172917081-a9d2974c-4ae0-4601-a246-83db6dd9ed3e.png)
 
-* This screen is where all information will be printed out to, whether or not difficulty is higher or not, or whether you are currently mining
+* This screen is where all information will be printed out to, whether or not difficulty is higher or whether you are currently mining
 ![image3](https://user-images.githubusercontent.com/80614053/172917202-1c3e1386-8326-4935-a8c1-b26b30f25bc9.png)
 
 * Fear not when a command line window appears! this just means your mining is working exactly as intended
