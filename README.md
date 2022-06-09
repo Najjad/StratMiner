@@ -50,7 +50,7 @@ Inside of the unzipped file that you have now prepared for mining, run the Strat
 You've officially set up the StrategicMiner program!!
 
 # How to use: Step 4, Checking progress
-## You'll only see progress reports after mining for a little bit beforehand
+## You'll only see progress reports after mining for a little bit 
 
 if you'd like to check your mining progress, navigate to the website rvn.2miners.com
 
