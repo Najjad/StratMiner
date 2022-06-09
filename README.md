@@ -29,7 +29,22 @@ This program was designed to be aplicable to nearly all cryptocurrencies, the re
 
 # How To Use
 
-IMAGE I AM YET TO SCREENSHOT OF MY GUI
+This very simple GUI created with the help of the Gooey library is very straightforward
+* click the start button at the bottom right of the window
+![image1](https://user-images.githubusercontent.com/80614053/172917020-e7e0cf3a-d02c-4a2f-95f8-3f2e9c7c8805.jpg)
+ 
+ * Once you've clicked start, you'll be greeted by this screen
+![image2](https://user-images.githubusercontent.com/80614053/172917081-a9d2974c-4ae0-4601-a246-83db6dd9ed3e.png)
+
+* This screen is where all information will be printed out to, whether or not difficulty is higher or not, or whether you are currently mining
+![image3](https://user-images.githubusercontent.com/80614053/172917202-1c3e1386-8326-4935-a8c1-b26b30f25bc9.png)
+
+* Fear not when a command line window appears! this just means your mining is working exactly as intended
+![image4](https://user-images.githubusercontent.com/80614053/172917261-b2f67aa1-bdfb-42bd-8ca7-641466157545.png)
+
+## For download and setting up instructions navigate to the branch labeled with the crypto you'd like to mine
+
+
 
 # Customizable options:
 
@@ -58,7 +73,7 @@ This helps in preserving hardware allowing for your computer to last longer
 ## Test Data: (taken from all log files of mining) 
 Log files compared from my program VS. the same base mining software running constantly
 
-#-------Uptime:-------#
+## #-------Uptime:-------#
 
 Average uptime on my program:
 * 18 minutes 20 seconds~
@@ -66,7 +81,7 @@ Average uptime on my program:
 Average uptime on 24/7 mining: 
 * 3 hours~
 
-#-------CPU Usage:-------#
+## #-------CPU Usage:-------#
 
 Average usage on my program:
 * 1.3% CPU average usage
@@ -74,7 +89,7 @@ Average usage on my program:
 Average usage on 24/7 mining:
 * 8% CPU average usage
 
-#-------GPU Temperature:-------#
+## #-------GPU Temperature:-------#
 
 Average temperature on my program:
 * 63°C
@@ -82,7 +97,7 @@ Average temperature on my program:
 Average temperature on 24/7 mining:
 * 72°C
 
-#-------Power Usage:-------#
+## #-------Power Usage:-------#
 
 Average power usage on my program:
 * 83 Watt-Hours
@@ -90,7 +105,7 @@ Average power usage on my program:
 Average power usage 24/7 mining:
 * 89 Watt-Hours 
 
-#-------Hash Rate: (the rate at which your computer mines, higher is better)-------#
+## #-------Hash Rate: (the rate at which your computer mines, higher is better)-------#
 
 Average hash rate on my program:
 * 10.61 Megahash
@@ -98,7 +113,7 @@ Average hash rate on my program:
 Average hash rate 24/7 mining:
 * 9.9 Megahash
 
-Data Conclusions:
+## Data Conclusions:
 ```
 My program uses 83.75% less CPU power than constantly mining
 My program creates 12.5% less heat than constantly mining
