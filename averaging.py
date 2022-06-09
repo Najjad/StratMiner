@@ -1,11 +1,11 @@
-#shouldnt need to call avg() func every time
+#Very inneficient, optimizations will come later
 
 import requests as rq
 from bs4 import BeautifulSoup
 import os
-import lxml
 
-here = os.path.dirname(os.path.abspath(__file__))
+here = os.getcwd()
+
 infile = os.path.join(here, 'infile.txt')
 outfile = os.path.join(here, 'outfile.txt')
 #because python doesn't know where these files are even though they're in the same directory???
@@ -52,4 +52,5 @@ def avg():
   mylines = [float(x) for x in mylines] #turning all elements into float
   s = sum(mylines) #sum of all elements
   l = len(mylines) #how many elements total
-  return s/l 
+  return s/l #sum divided by number of terms = average
+  
