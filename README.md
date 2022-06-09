@@ -108,5 +108,9 @@ My program runs for only 10% of the time in comparison to constantly mining
 ```
 Overall, with the uptime, heat, and power usage being lower, the amount of strain on your computer is lessened therefore preserving your hardware for much longer. The fact that the program also targets times of low difficulty allows you to mine more of the specified Cryptocurrency with less resources
 
+![Test Results Graph](https://user-images.githubusercontent.com/80614053/172891095-08abb8f1-8c45-4189-854d-b83bd382cad1.png)
+* Hashrate is better when higher
+* everything besides hashrate is better lower
+
 
 ***By: Najjad***
