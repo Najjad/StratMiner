@@ -27,7 +27,7 @@ Ravencoin - RVN
 
 # How To Use
 
-![gui](https://user-images.githubusercontent.com/80614053/172138470-f8bd5344-78a9-40e8-bdf4-8e048e925a80.png)
+IMAGE I AM YET TO SCREENSHOT OF MY GUI
 
 # Customizable options:
 
@@ -50,8 +50,61 @@ This program is aimed at all who want to get into mining crypto but don’t have
 
 This helps in preserving hardware allowing for your computer to last longer
 
-# Proof of this working:
+# Proof of this working: (Currently tested on Ravencoin mining)
 
-DATA I AM YET TO INCLUDE
+
+## Test Data: (taken from all log files of mining) 
+Log files compared from my program VS. the same base mining software running constantly
+
+#-------Uptime:-------#
+
+Average uptime on my program:
+* 18 minutes 20 seconds~
+
+Average uptime on 24/7 mining: 
+* 3 hours~
+
+#-------CPU Usage:-------#
+
+Average usage on my program:
+* 1.3% CPU average usage
+
+Average usage on 24/7 mining:
+* 8% CPU average usage
+
+#-------GPU Temperature:-------#
+
+Average temperature on my program:
+* 63°C
+
+Average temperature on 24/7 mining:
+* 72°C
+
+#-------Power Usage:-------#
+
+Average power usage on my program:
+* 83 Watt-Hours
+
+* Average power usage 24/7 mining:
+* 89 Watt-Hours 
+
+#-------Hash Rate: (the rate at which your computer mines, higher is better)-------#
+
+Average hash rate on my program:
+* 10.61 Megahash
+
+Average hash rate 24/7 mining:
+* 9.9 Megahash
+
+Data Conclusions:
+```
+My program uses 83.75% less CPU power than constantly mining
+My program creates 12.5% less heat than constantly mining
+My program uses 6.8% less power than constantly mining
+My program mines with a 6.7% higher hash rate than constantly mining
+My program runs for only 10% of the time in comparison to constantly mining
+```
+Overall, with the uptime, heat, and power usage being lower, the amount of strain on your computer is lessened therefore preserving your hardware for much longer. The fact that the program also targets times of low difficulty allows you to mine more of the specified Cryptocurrency with less resources
+
 
 ***By: Najjad***
