@@ -4,10 +4,14 @@ A strategic mining program meant to keep your crypto mining efficient!
 
 # How to use: Step 1, Downloading
 
-STEPS TO DOWNLOAD THAT I HAVE NOT WRITTEN YET
+## Navigate to the downloads branch in order to see all versions and downloads, RVN V.1 is the current Ravencoin miner
 
-Download RVN V.1: LINK_NOT_FINISHED
+* First have something to unzip files with (WinRAR, 7zip, etc.)
+* If you are unsure of what unzipping a file is, you'll need to do a bit of research beforehand
 
+* Secondly, unzip the StrategicMiner.zip file
+
+* Thirdly, Move on to Step 2.
 
 
 # How to use: Step 2, Preparing mining
@@ -38,8 +42,13 @@ Saving file: (Ctrl + s) or top left click file, then save
 
 ##### remove --log if you do not wish to keep log files of your mining
 
+# How to use: Step 3, Running the program
 
-# How to use: Step 3, Checking progress
+Inside of the unzipped file that you have now prepared for mining, run the StrategicMiner.exe file
+
+You've officially set up the StrategicMiner program!!
+
+# How to use: Step 4, Checking progress
 ## You'll only see progress reports after mining for a little bit beforehand
 
 if you'd like to check your mining progress, navigate to the website rvn.2miners.com
@@ -47,4 +56,6 @@ if you'd like to check your mining progress, navigate to the website rvn.2miners
 On the search bar of the website, search your RavenCoin wallet address
 
 This page then allows you to always check up on your mining progress!
+
+
 
