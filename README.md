@@ -18,6 +18,8 @@ Compatible with (so far):
 Ravencoin - RVN
 ```
 
+This program was designed to be aplicable to nearly all cryptocurrencies, the reason it is only compatible with Ravencoin so far is time constraints.
+
 ### Branches labeled by Coin letters (BTC, RVN, ETH, etc.)
 ### Branches contain download for each version of program
 ### You can find the list of branches at the top left of this repository
@@ -85,7 +87,7 @@ Average temperature on 24/7 mining:
 Average power usage on my program:
 * 83 Watt-Hours
 
-* Average power usage 24/7 mining:
+Average power usage 24/7 mining:
 * 89 Watt-Hours 
 
 #-------Hash Rate: (the rate at which your computer mines, higher is better)-------#
